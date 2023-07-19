@@ -6,7 +6,7 @@ In this project, I have created a chatbot powered by the ChatGPT language model 
 To get started with the chatbot, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
-git clone https:
+git clone https:https://github.com/AlexVic1/chatbot_with_ChatGPT
 
 2.Install the required dependencies by running the following command:
 pip install -r requirements.txt
