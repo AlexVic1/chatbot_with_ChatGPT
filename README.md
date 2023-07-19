@@ -1,6 +1,6 @@
 ﻿# chatbot_with_ChatGPT
 <p>Welcome to the repository for the Chatbot with ChatGPT project!
-In this project, I have created a chatbot powered by the ChatGPT language model API. The chatbot is designed to engage in natural language conversations on a wide range of topics. To use the chatbot and access its functionalities, you will need to obtain a ChatGPT API KEY, which will grant you access to the language model through the OpenAI API.</p>
+In this project, I have created a chatbot powered by the ChatGPT language model API. The chatbot is designed to engage in natural language conversations on a wide range of topics. To use the chatbot and access its functionalities, you will need to get a ChatGPT API KEY, which will grant you access to the language model through the OpenAI API.</p>
 
 <h1>Getting Started</h1>
 To get started with the chatbot, follow these steps:
