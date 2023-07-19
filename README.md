@@ -6,10 +6,14 @@ In this project, I have created a chatbot powered by the ChatGPT language model 
 To get started with the chatbot, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
+```python
 git clone https:https://github.com/AlexVic1/chatbot_with_ChatGPT
+```
 
 2.Install the required dependencies by running the following command:
+```python
 pip install -r requirements.txt
+```
 
 3.Obtain a ChatGPT API KEY by signing up on the OpenAI website:
 Go to https://openai.com/signup and create an account to obtain your ChatGPT API KEY.
