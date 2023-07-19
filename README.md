@@ -15,7 +15,7 @@ git clone https:https://github.com/AlexVic1/chatbot_with_ChatGPT
 pip install -r requirements.txt
 ```
 
-3.Obtain a ChatGPT API KEY by signing up on the OpenAI website:
+3.Get a ChatGPT API KEY by signing up on the OpenAI website:
 Go to https://openai.com/signup and create an account to obtain your ChatGPT API KEY.
 
 4.Store your API KEY securely. Never expose your API KEY publicly, as it provides access to the ChatGPT API and may have usage limitations tied to your account.
