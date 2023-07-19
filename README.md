@@ -26,6 +26,7 @@ Go to https://openai.com/signup and create an account to obtain your ChatGPT API
 The chatbot application allows you to have a conversation with the ChatGPT language model in real-time. Simply type your messages in the command line, and the chatbot will respond accordingly.
 
 <h1>Contributions </h1>
-We welcome contributions from the community! If you find any bugs, have suggestions for improvements, or want to add new features to the chatbot, please submit an issue or a pull request. Before contributing, please review our contribution guidelines.
+If you find any bugs, have suggestions for improvements, or want to add new features to the chatbot, please submit an issue or a pull request. 
+Before contributing, please review our contribution guidelines.
 
 
